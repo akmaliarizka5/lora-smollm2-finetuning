@@ -1,0 +1,7 @@
+transformers==4.46.3
+trl==0.12.1
+peft>=0.7.0
+datasets>=2.19.0
+accelerate>=0.24.0
+huggingface_hub>=0.24.0
+torch>=2.1.0
